@@ -1,0 +1,15 @@
+1、创建根节点
+
+
+
+
+
+zookeeper:{
+    locks:{
+        test:[
+            {thread_1},
+            {thread_2},
+            {thread_3}
+        ]
+    }
+}
